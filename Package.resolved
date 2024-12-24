@@ -1,4 +1,5 @@
 {
+  "originHash" : "affede26d7f27f1a6aadd8caccba37288702a083599127d57a56a108bdab6f23",
   "pins" : [
     {
       "identity" : "stats-sdk-objc",
@@ -10,14 +11,14 @@
       }
     },
     {
-      "identity" : "theoplayer-sdk-ios",
+      "identity" : "theoplayer-sdk-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/THEOplayer/theoplayer-sdk-ios.git",
+      "location" : "https://github.com/vicenteerick/theoplayer-sdk-apple",
       "state" : {
-        "revision" : "5d7dcaada88633aa8859923eba272f88852b0db6",
-        "version" : "7.8.0"
+        "branch" : "fix/update-swift-compatibility",
+        "revision" : "0cc6399e95b97ff06687cf1ceff77c07ff8b64e1"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
